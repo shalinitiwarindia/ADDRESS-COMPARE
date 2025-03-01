@@ -9,6 +9,12 @@ This is a Next.js API that compares two addresses using the Gemini AI model. It 
 - Built using Next.js API routes
 - Deployed on Vercel (or any other hosting platform)
 
+- ScreenShots
+- ![image](https://github.com/user-attachments/assets/1936876d-0b7d-4563-9e84-fe2cea81f149)
+- ![image](https://github.com/user-attachments/assets/258184d8-5368-4fba-9b46-0f1b43b83722)
+
+
+
 ## Getting Started
 
 ### Prerequisites

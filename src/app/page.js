@@ -32,12 +32,5 @@ export default function Home() {
         onChange={(e) => setAddress2(e.target.value)}
         className="border p-2 m-2"
       />
-      <button onClick={compareAddresses} className="bg-blue-500 text-white p-2 mt-2">
-        Compare
-      </button>
-      {result && (
-        </p>
-      )}
-    </main>
-  );
+    
 }

@@ -38,8 +38,6 @@ export default function Home() {
         Compare
       </button>
       {result && (
-        <p className="mt-4">
-          Match: {result.match ? " Yes" : " No"}, Confidence: {result.confidence}
         </p>
       )}
     </main>

@@ -13,8 +13,6 @@ export default function Home() {
       body: JSON.stringify({ address1, address2 }),
     });
 
-    const data = await res.json();
-    setResult(data);
   };
 
   return (

@@ -23,12 +23,7 @@ export default function Home() {
         placeholder="Enter Address 1"
         value={address1}
         onChange={(e) => setAddress1(e.target.value)}
-        className="border p-2 m-2"
-      />
-      <input
-        type="text"
-        placeholder="Enter Address 2"
-        value={address2}
+   
         onChange={(e) => setAddress2(e.target.value)}
         className="border p-2 m-2"
       />

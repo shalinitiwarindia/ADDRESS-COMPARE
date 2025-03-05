@@ -15,14 +15,6 @@ export default function Home() {
 
   };
 
-  return (
-    <main className="flex flex-col items-center justify-center min-h-screen p-4">
-      <h1 className="text-2xl font-bold">Compare Two Addresses</h1>
-      <input
-        type="text"
-        placeholder="Enter Address 1"
-        value={address1}
-        onChange={(e) => setAddress1(e.target.value)}
    
         onChange={(e) => setAddress2(e.target.value)}
         className="border p-2 m-2"
